@@ -1,6 +1,5 @@
-import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min.js"; // wichtig für Burger & Dropdown
+import "bootstrap/dist/js/bootstrap.bundle.min.js"
 
 const Navbar = () => {
   return (

@@ -9,7 +9,7 @@ const Contacto = () => {
 
       {!submitted ? (
         <form
-          action="https://formspree.io/f/your-form-id" // <-- Hier deine Formspree-ID einfügen
+          action="https://formspree.io/f/your-form-id" // <-- bei formspree anmelden und den link hier einfuegen, damit ich kein backend server haben muss
           method="POST"
         >
           <div className="mb-3">

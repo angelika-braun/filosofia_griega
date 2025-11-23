@@ -11,9 +11,7 @@ const Proceso = () => {
           <div className="col-md-6 mb-3 mb-md-0">
             <h4>Introducción al Tour</h4>
             <p>
-              En este video te mostramos cómo navegar la página, dónde encontrar
-              las actividades y cómo realizar las tareas interactivas de la forma
-              más eficiente.  
+              En este video te mostramos .....
             </p>
           </div>
 
