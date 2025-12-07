@@ -47,3 +47,24 @@ You can download it here: [https://nodejs.org/](https://nodejs.org/)
 git clone https://github.com/angelika-braun/filosofia_griega.git
 cd filosofica_griega
 
+---
+
+### Install dependencies
+```bash
+npm install
+
+### Start the development server
+```bash
+npm run dev
+
+
+### Access the app
+Open your browser at http://localhost:5173 which you can see in your terminal
+
+----
+
+### 💡 Note: Node.js must be installed. Without it, npm install and npm run dev will not work.
+
+
+
+
