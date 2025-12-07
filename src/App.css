@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat; 
   background-position: center;  
   background-attachment: fixed; 
+  padding-top: 80px;
 }
 
 .navbar-glass, .article-box {
@@ -19,37 +20,23 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
- /* blau-petrol leuchtend */
-/* .btn-glow {
-  display: inline-block;
-  padding: 10px 20px;
-  margin-top: 15px; 
+#introducion, #tareas, #proceso, #evaluación, #recursos, #conclusiones, #contacto {
+  scroll-margin-top: 100px; 
+}
+
+.intro-text, .conclusiones-text, .act-text {
+  white-space: pre-line;
+}
+
+.textoRecursos {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
-  font-weight: bold;
-  color: #fff;
-  text-decoration: none;
-  text-align: center;
-  border-radius: 12px;
-  background: linear-gradient(135deg, #00bcd4, #006064);
-  box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
-  transition: all 0.3s ease;
 }
 
-.btn-glow:hover {
-  transform: scale(1.05);
-  box-shadow: 0 0 25px rgba(0, 188, 212, 0.9);
-}
-
-.btn-glow:active {
-  transform: scale(0.98);
-  box-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
-} */
-
-/* Leuchtender, weißer Button für PDF & ähnliche Buttons */
 .btn-glow {
   display: inline-block;
   padding: 10px 20px;
-  margin-top: 15px; /* Abstand vom Text */
+  margin-top: 15px; 
   font-size: 16px;
   font-weight: bold;
   color: #fff;
@@ -134,7 +121,7 @@ body {
 
 
 .card-eval {
-  background: rgba(7, 51, 61, 0.45); /* schönes kräftiges Petrol */
+  background: rgba(7, 51, 61, 0.45); 
   border: 1px solid rgba(28, 102, 119, 0.5);
   border-radius: 12px;
   backdrop-filter: blur(4px);

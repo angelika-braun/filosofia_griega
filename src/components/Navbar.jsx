@@ -3,9 +3,9 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js"
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-glass">
+    <nav className="navbar navbar-expand-lg navbar-glass fixed-top">
       <div className="container-fluid">
-        <a className="navbar-brand" href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
+        <a className="navbar-brand" href="https://www.youtube.com/watch?v=K0Dn-_ZhmyM" target="_blank" rel="noopener noreferrer">
           <img src="/socrates.jpg" className="logo_style" alt="Socrates" />
         </a>
 

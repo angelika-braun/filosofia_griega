@@ -8,14 +8,9 @@ const Proceso = () => {
 
         <div className="row align-items-center mt-4">
 
-          <div className="col-md-6 mb-3 mb-md-0">
-            <h4>Introducción al Tour</h4>
-            <p>
-              En este video te mostramos .....
-            </p>
-          </div>
+  
 
-          <div className="col-md-6">
+          <div className="col-md-6 mx-auto">
             <div className="ratio ratio-16x9">
               <iframe
                 src="https://www.youtube.com/embed/54vrI4eE8NE"

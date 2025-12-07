@@ -5,6 +5,8 @@ import Proceso from './components/Proceso';
 import Evaluación from './components/Evaluación';
 import Conclusiones from './components/Conclusiones';
 import Contacto from './components/Contacto';
+import Recursos from './components/Recursos';
+
 
 import './App.css'
 
@@ -20,6 +22,7 @@ function App() {
       <Tareas />
       <Proceso />
       <Evaluación />
+      <Recursos />
       <Conclusiones />
       <Contacto />
 

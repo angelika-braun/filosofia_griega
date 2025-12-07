@@ -3,15 +3,32 @@ import { useState } from "react";
 const Contacto = () => {
   const [submitted, setSubmitted] = useState(false);
 
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    const form = e.target;
+    const data = new FormData(form);
+
+    const response = await fetch("https://formspree.io/f/movglorq", {
+      method: "POST",
+      body: data,
+      headers: {
+        Accept: "application/json",
+      },
+    });
+
+    if (response.ok) {
+      setSubmitted(true);
+      form.reset();
+    }
+  };
+
   return (
     <div id="contacto" className="card article-box mt-5 p-4">
       <h2 className="mb-4">Contacto</h2>
 
       {!submitted ? (
-        <form
-          action="https://formspree.io/f/your-form-id" // <-- bei formspree anmelden und den link hier einfuegen, damit ich kein backend server haben muss
-          method="POST"
-        >
+        <form onSubmit={handleSubmit}>
           <div className="mb-3">
             <label htmlFor="name" className="form-label">
               Nombre
