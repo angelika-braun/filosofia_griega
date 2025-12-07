@@ -34,8 +34,16 @@ An interactive and **fully responsive learning platform** designed for **philoso
   
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository:  
+## 🚀 Getting Started (Local Development)
+
+To run this project on your computer, you need to have **Node.js** installed.  
+You can download it here: [https://nodejs.org/](https://nodejs.org/)
+
+### Steps
+
+1. **Clone the repository**  
 ```bash
 git clone https://github.com/angelika-braun/filosofia_griega.git
+cd filosofica_griega
+
