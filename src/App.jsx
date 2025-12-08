@@ -6,6 +6,8 @@ import Evaluación from './components/Evaluación';
 import Conclusiones from './components/Conclusiones';
 import Contacto from './components/Contacto';
 import Recursos from './components/Recursos';
+import socratesImage from './assets/socrates.jpg';
+
 
 
 import './App.css'
@@ -14,8 +16,17 @@ import './App.css'
 function App() {
 
   return (
-    <>
-      <Navbar />
+    <div
+      style={{
+        backgroundImage: `url(${socratesImage})`,
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center',
+        backgroundAttachment: 'fixed',
+        paddingTop: '80px'
+      }}
+    >
+      <Navbar logo={socratesImage} />
       <div className="container mt-5">
 
       <Introdución />
@@ -32,7 +43,7 @@ function App() {
       </a>
     
       </div>
-    </>
+    </div>
   )
 }
 
