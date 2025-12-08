@@ -1,10 +1,11 @@
+import rubricaPDF from "../assets/rubrica-actividades.pdf";
 
 const Evaluación = () => {
   const items = [
   {
     img: "/ukraine.jpg",
     title: "Rúbrica de las actividades",
-    pdf: "./assets/Rúbrica de las actividades.pdf",
+    pdf:  rubricaPDF,
   }
 ];
 
