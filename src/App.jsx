@@ -1,7 +1,7 @@
 import Navbar from './components/Navbar'
 import Introdución from "./components/Introducción";
 import Tareas from './components/Tareas';
-import Proceso from './components/Proceso';
+import TourWeb from './components/TourWeb';
 import Evaluación from './components/Evaluación';
 import Conclusiones from './components/Conclusiones';
 import Contacto from './components/Contacto';
@@ -31,7 +31,7 @@ function App() {
 
       <Introdución />
       <Tareas />
-      <Proceso />
+      <TourWeb />
       <Evaluación />
       <Recursos />
       <Conclusiones />

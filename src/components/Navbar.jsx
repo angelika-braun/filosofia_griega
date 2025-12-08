@@ -30,7 +30,7 @@
                 <a className="nav-link" href="#tareas">Tareas</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#proceso">Proceso</a>
+                <a className="nav-link" href="#proceso">Tour Web</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#evaluación">Evaluación</a>

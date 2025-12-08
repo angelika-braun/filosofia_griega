@@ -1,6 +1,6 @@
 import React from "react";
 
-const Proceso = () => {
+const TourWeb = () => {
   return (
     <div className="card article-box mt-5" id="proceso">
       <div className="card-body">
@@ -28,4 +28,4 @@ const Proceso = () => {
   );
 };
 
-export default Proceso;
+export default TourWeb;
