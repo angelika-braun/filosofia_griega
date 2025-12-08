@@ -6,6 +6,7 @@ const Tareas = () => {
       description: `Juego de preguntas tipo test sobre el texto A dado en el apartado de recursos. 
                               Ética a Nicómaco de Aristóteles: 
                               La Felicidad.
+                              
                               Mucha suerte.`,
       juegoURL: "https://es.educaplay.com/juego/26995993-felicidad_y_virtud_idea_y_relacion.html" 
     },
