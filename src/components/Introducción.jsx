@@ -4,9 +4,7 @@ const Introducción = () => {
   const title = "Introdución";
   const content = `Esta página web nace con la intención de ofrecerles las herramientas necesarias para
 afrontar con seguridad el comentario de texto filosófico, que ustedes alumnos deberán
-realizar en la PAU. Centrándonos esta vez en el pensamiento de Aristóteles, la propuesta se
-articula en cinco actividades. Tareas diseñadas a partir de dos textos fundamentales del
-autor, expuestos en el apartado “Recursos” de esta web: 
+realizar en la PAU. Centrándonos esta vez en el pensamiento de Aristóteles, la propuesta se articula en cinco actividades. Tareas diseñadas a partir de dos textos fundamentales del autor, expuestos en el apartado “Recursos” de esta web: 
 
 - Las dos primeras basadas en el primer fragmento (TEXTO A),
 - las dos siguientes en el segundo texto (TEXTO B),
