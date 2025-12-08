@@ -15,6 +15,7 @@ const Tareas = () => {
       description: `Dictado; el objetivo de esta actividad es interiorizar cómo se hace un comentario de texto en los exámenes de acceso universitario, sobre el “texto A” dado en el apartado de recursos.
                               Ética a Nicómaco de Aristóteles: 
                               La Felicidad
+                              
                               Mucha suerte.`,
       juegoURL: "https://es.educaplay.com/juego/26995947-felicidad_y_virtud.html" 
     },
@@ -22,6 +23,7 @@ const Tareas = () => {
       id: 3, 
       title: "Actividad 3", 
       description:  `Completa el “texto B” Aristóteles. Política, Libro I, Capítulo II. Gredos, con los conceptos elementales del texto.
+                              
                               Mucha suerte.`,
       juegoURL: "https://es.educaplay.com/recursos-educativos/27058370-justicia_y_virtud_fill_in_the_blanks.html" 
     },
@@ -30,6 +32,7 @@ const Tareas = () => {
       title: "Actividad 4", 
       description: `Ahorcados: según la definición expuesta, adivina la palabra relacionada como concepto central del “Texto B”, puedes recurrir a las pistas. 
                               Cuidado, las pistas bajarán tu puntuación.
+                              
                               Mucha suerte.`,
       juegoURL: "https://es.educaplay.com/juego/27059014-la_espiral_de_la_justicia.html" 
     },
@@ -41,7 +44,10 @@ const Tareas = () => {
       - Abre la herramienta de IA 'Habla con la Historia', formula la siguiente pregunta: 
       
       "Según Aristóteles, ¿por qué la justicia y la virtud son necesarias para que el ser humano cumpla su naturaleza de vivir en comunidad? Explica con tus propias palabras y da un ejemplo moderno."
-       - Compara la respuesta de la IA con tus propias ideas y escribe un breve comentario sobre coincidencias o diferencias que tengas con ella. Deberás entregar el comentario por escrito al profesor el día 21 de octubre.`,
+      
+      - Compara la respuesta de la IA con tus propias ideas y escribe un breve comentario sobre coincidencias o diferencias que tengas con ella. Deberás entregar el comentario por escrito al profesor el día 21 de octubre.
+      
+      Mucha suerte.`,
       juegoURL: "https://hablaconlahistoria.es/personajes/aristoteles/" 
     },
   ];
