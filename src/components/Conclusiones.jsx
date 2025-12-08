@@ -6,7 +6,6 @@ const Conclusiones = () => {
 A través de las actividades propuestas, el alumnado refuerza las competencias clave estructuradas en la LOMLOE en: 
 
 comunicación lingüística, la competencia digital, la competencia de aprender a aprender, así como las competencias social y cívica.
-
 Vinculadas tales competencias al análisis de los conceptos aristotélicos de eudaimonía
 (felicidad), areté (virtud), dikaiosýnē (justicia) y la vida comunitaria propia del zōon politikón (animal político). De este modo, la web contribuye al desarrollo de las destrezas esenciales para el estudio filosófico.`;
 
