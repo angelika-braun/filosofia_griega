@@ -4,7 +4,7 @@ const Evaluación = () => {
   {
     img: "/ukraine.jpg",
     title: "Rúbrica de las actividades",
-    pdf: "/filosofia_griega/src/assets/Rúbrica de las actividades.pdf",
+    pdf: "./assets/Rúbrica de las actividades.pdf",
   }
 ];
 

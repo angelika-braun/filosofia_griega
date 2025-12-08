@@ -13,8 +13,7 @@ autor, expuestos en el apartado “Recursos” de esta web:
 - y una quinta actividad que invita a elaborar un comentario personal apoyándose en la inteligencia artificial para profundizar en los conceptos aristotélicos.
 
 Con ello se pretende mejorar la capacidad lectora, el análisis crítico, la búsqueda y
-contraste de fuentes, así como la mejora en la redacción de textos filosóficos.
-`;
+contraste de fuentes, así como la mejora en la redacción de textos filosóficos.`;
 
 
 

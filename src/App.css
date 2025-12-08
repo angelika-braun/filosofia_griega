@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-image: url("./socrates.jpg"); 
+  background-image: url("/socrates.jpg"); 
   background-size: cover;     
   background-repeat: no-repeat; 
   background-position: center;  
