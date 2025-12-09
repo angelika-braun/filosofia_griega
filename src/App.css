@@ -127,11 +127,9 @@ html {
   backdrop-filter: blur(4px);
 }
 
-/*
-.card-eval:hover {
-  background: rgba(255, 255, 255, 0.35);
-  box-shadow: 
-    0 0 12px rgba(255, 255, 255, 0.8),
-    0 0 25px rgba(255, 255, 255, 0.6);
+.data-card {
+
 }
-*/
+.data-name {
+  
+}
