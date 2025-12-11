@@ -1,4 +1,4 @@
-import rubricaPDF from "../assets/rubrica-actividades.pdf";
+import rubricaPDF from "../assets/RúbricasActividadesWeb.pdf";
 
 const Evaluación = () => {
   const items = [

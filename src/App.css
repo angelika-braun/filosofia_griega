@@ -70,9 +70,6 @@ html {
   outline: none; /* entfernt den grauen Fokus-Rand */
 }
 
-
-
-
 .scroll-top-btn {
   position: fixed;
   bottom: 25px;
@@ -125,11 +122,4 @@ html {
   border: 1px solid rgba(28, 102, 119, 0.5);
   border-radius: 12px;
   backdrop-filter: blur(4px);
-}
-
-.data-card {
-
-}
-.data-name {
-  
 }

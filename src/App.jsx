@@ -8,8 +8,6 @@ import Contacto from './components/Contacto';
 import Recursos from './components/Recursos';
 import socratesImage from './assets/socrates.jpg';
 
-
-
 import './App.css'
 
 
