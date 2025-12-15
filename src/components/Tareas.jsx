@@ -23,10 +23,10 @@ const Tareas = () => {
     { 
       id: 3, 
       title: "Actividad 3", 
-      description:  `Completa el “texto B” Aristóteles. Política, Libro I, Capítulo II. Gredos, con los conceptos elementales del texto.
+      description:  `¿Qué concepto central del texto B responde mejor la pregunta?
                               
                               Mucha suerte.`,
-      juegoURL: "https://es.educaplay.com/recursos-educativos/27058370-justicia_y_virtud_fill_in_the_blanks.html" 
+      juegoURL: "https://view.genially.com/693e1b9409d8ace60d2645d7",
     },
      { 
       id: 4, 
